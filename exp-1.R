@@ -1,0 +1,13 @@
+
+numeric_vec <- c(10.5, 20, 30.7, 40, 50)
+char_vec <- c("apple", "banana", "cherry", "date")
+logical_vec <- c(TRUE, FALSE, TRUE, TRUE, FALSE)
+cat("NUMERIC VECTOR\n")
+cat("Content:", numeric_vec, "\n")
+cat("Type:", class(numeric_vec), "\n\n")
+cat("CHARACTER VECTOR\n")
+cat("Content:", char_vec, "\n")
+cat("Type:", class(char_vec), "\n\n")
+cat("LOGICAL VECTOR\n")
+cat("Content:", logical_vec, "\n")
+cat("Type:", class(logical_vec), "\n")
